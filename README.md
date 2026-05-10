@@ -7,7 +7,7 @@ Este informe técnico ha sido redactado en múltiples idiomas para facilitar su 
 
 - [🇪🇸 **Español** (Original)](./incident-report_es.pdf)
 - [🇬🇧 **English**](./incident-report_en.pdf)
-- [🇫🇷 **Français**](.incident-report_fr.pdf)
+- [🇫🇷 **Français**](./incident-report_fr.pdf)
 
 ---
 
